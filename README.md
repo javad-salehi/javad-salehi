@@ -1,11 +1,5 @@
 <p align="center"> Hi 👋 I'm Javad Salehi</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=javad-salehi&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javad-salehi&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=javad-salehi&theme=tokyonight)
-
 </p>
 
 ## 🛠 Tech Stack
