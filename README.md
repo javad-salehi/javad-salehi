@@ -8,13 +8,6 @@
 <img src="https://skillicons.dev/icons?i=python,cpp,c,git,linux,vscode" />
 </p>
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=javad-salehi&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=javad-salehi&layout=compact&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=javad-salehi&theme=tokyonight)
 
 ## 👨‍💻 About Me
 
